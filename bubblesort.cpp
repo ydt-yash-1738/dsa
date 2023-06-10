@@ -16,6 +16,9 @@ int main(){
     for(int i=0; i<5; i++){
     cout<<arr[i]<<" ";
     }
+    cout<<endl;
+    cout<<"The largest element is:";
+    cout<<arr[4];
     return 0;
 
 }
